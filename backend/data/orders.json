@@ -1,0 +1,7 @@
+{
+"orders": {
+"A1B2C3": {"status": "Shipped", "eta": "2025-08-18", "carrier": "DHL"},
+"ZX99Q": {"status": "Processing", "eta": "2025-08-15", "carrier": "—"},
+"ORD78910": {"status": "Delivered", "eta": "2025-08-10", "carrier": "FedEx"}
+}
+}

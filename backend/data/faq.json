@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "keywords": ["shipping", "delivery", "when arrive"],
+      "answer": "We ship orders within 24–48 hours. Typical delivery is 3–5 business days. You'll receive a tracking link as soon as it ships."
+    },
+    {
+      "keywords": ["refund", "return", "exchange"],
+      "answer": "We offer a 30-day return policy. Start a return by contacting support with your order ID. Refunds are processed to your original payment method."
+    },
+    {
+      "keywords": ["price", "cost", "how much"],
+      "answer": "Prices vary by product and promotion. Please see our catalog for the latest pricing or ask about a specific item."
+    }
+  ]
+}
