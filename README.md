@@ -106,7 +106,4 @@ Streamlit Dashboard ⇆ Admin APIs ⇆ FastAPI Webhook ⇆ Meta WhatsApp Cloud A
 - NLU intent classification
 - Template parameter UI helpers
 
-## 📄 License
-
-MIT
 
